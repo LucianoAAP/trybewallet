@@ -60,9 +60,9 @@ class Wallet extends React.Component {
   handleToggleEdit(id) {
     const { toggleEditChange, expenses } = this.props;
     const expense = expenses.find((getExpense) => getExpense.id === id);
-    const { description, tag, method, value } = expense;
+    const { description, tag, method, value, currency } = expense;
     toggleEditChange(id);
-    this.setState({ description, tag, method, value, currency: 'CAD' });
+    this.setState({ description, tag, method, value, currency });
   }
 
   addEditedToExpenses(id) {
