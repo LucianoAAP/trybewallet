@@ -1,7 +1,3 @@
-# linter-template
-
-Template repository to hold linter configurations
-
 # O projeto
 
 Esta é uma versão levemente modificade de um projeto de front-end que tive que desenvolver no curso de desenvolvimento web da Trybe. A aplicação foi feita utilizando React.js e se consiste em uma carteira virtual para controle de despesas com conversor de moedas, utilizando uma API com o seguinte endpoint:
