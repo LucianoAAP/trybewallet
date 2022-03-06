@@ -15,7 +15,9 @@ Esta é uma versão levemente modificade de um projeto de front-end que tive que
 
 # Começando
 
-Este projeto requer Node.js
+## Pré-requisitos
+
+Esta aplicação requer o pacote "NPM"
 
 ## Instalação
 
@@ -29,3 +31,11 @@ Este projeto requer Node.js
 ## Iniciando a aplicação
 
 Rode o comando `npm start`
+
+# Contato
+
+## Luciano Almeida
+
+- Linkedin: https://www.linkedin.com/in/lucianoaap/
+- Github: https://www.linkedin.com/in/lucianoaap/
+- Email: lucianoalmeidaap@gmail.com
